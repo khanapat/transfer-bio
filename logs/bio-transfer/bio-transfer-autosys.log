@@ -1,0 +1,19 @@
+29-08-2019 17:40:06.342 k.b.t.a.b.BioTransferAutosysApplication  INFO  [] [      main] : Starting BioTransferAutosysApplication on HQ8636620535N1.local with PID 6452 (/Users/ktb_user/Desktop/JAVA/SFTP/bio-transfer-autosys/target/classes started by ktb_user in /Users/ktb_user/Desktop/JAVA/SFTP/bio-transfer-autosys)
+29-08-2019 17:40:06.345 k.b.t.a.b.BioTransferAutosysApplication  INFO  [] [      main] : No active profile set, falling back to default profiles: default
+29-08-2019 17:40:06.651 .s.d.r.c.RepositoryConfigurationDelegate INFO  [] [      main] : Bootstrapping Spring Data repositories in DEFAULT mode.
+29-08-2019 17:40:06.667 .s.d.r.c.RepositoryConfigurationDelegate INFO  [] [      main] : Finished Spring Data repository scanning in 10ms. Found 0 repository interfaces.
+29-08-2019 17:40:07.051 com.zaxxer.hikari.HikariDataSource       INFO  [] [      main] : HikariPool-1 - Starting...
+29-08-2019 17:40:12.276 com.zaxxer.hikari.HikariDataSource       INFO  [] [      main] : HikariPool-1 - Start completed.
+29-08-2019 17:40:12.324 o.hibernate.jpa.internal.util.LogHelper  INFO  [] [      main] : HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+29-08-2019 17:40:12.366 org.hibernate.Version                    INFO  [] [      main] : HHH000412: Hibernate Core {5.3.10.Final}
+29-08-2019 17:40:12.367 org.hibernate.cfg.Environment            INFO  [] [      main] : HHH000206: hibernate.properties not found
+29-08-2019 17:40:12.472 o.hibernate.annotations.common.Version   INFO  [] [      main] : HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+29-08-2019 17:40:12.585 org.hibernate.dialect.Dialect            INFO  [] [      main] : HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+29-08-2019 17:40:13.057 j.LocalContainerEntityManagerFactoryBean INFO  [] [      main] : Initialized JPA EntityManagerFactory for persistence unit 'default'
+29-08-2019 17:40:13.179 k.b.t.a.b.BioTransferAutosysApplication  INFO  [] [      main] : Started BioTransferAutosysApplication in 22.199 seconds (JVM running for 22.568)
+29-08-2019 17:40:13.340 k.b.t.a.b.BioTransferAutosysApplication  INFO  [] [      main] : SUCCESS
+29-08-2019 17:40:13.343 j.LocalContainerEntityManagerFactoryBean INFO  [] [  Thread-2] : Closing JPA EntityManagerFactory for persistence unit 'default'
+29-08-2019 17:40:13.346 com.zaxxer.hikari.HikariDataSource       INFO  [] [  Thread-2] : HikariPool-1 - Shutdown initiated...
+29-08-2019 17:40:17.427 com.zaxxer.hikari.HikariDataSource       INFO  [] [  Thread-2] : HikariPool-1 - Shutdown completed.
